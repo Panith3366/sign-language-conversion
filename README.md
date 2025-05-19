@@ -1,4 +1,6 @@
 # sign-language-conversion
+## DataSet
+DataSet is imported from "https://www.kaggle.com/code/rahulmakwana/sign-language-recognition-vgg16-resnet50"
 ## Sign Recognition using Blackbox AI
 
 This project leverages a blackbox Artificial Intelligence model for the task of sign language recognition. By utilizing a pre-trained or custom-trained deep learning network, the system is designed to identify various hand gestures and signs from image or video input. This approach allows for the learning of intricate patterns and nuances within sign language without requiring explicit manual feature engineering. While the internal decision-making processes of the AI model remain opaque, the focus is on achieving high accuracy and robust performance through extensive training on diverse datasets. This method is particularly advantageous for handling the complexity and variability inherent in sign language communication.
